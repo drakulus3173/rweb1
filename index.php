@@ -1,10 +1,11 @@
-$ git init
-$ heroku git:remote -a "name of heroku app"
-
-
-Commit your code to the repository and deploy it to Heroku using Git.
-
-$ git add .
-$ git commit -am "make it better"
-$ git push heroku master
-$ heroku open
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body>
+    <h1>(/*_*)/ Click me!!! \(*_*\)</h1>
+  </body>
+</html>
