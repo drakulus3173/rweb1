@@ -1,0 +1,23 @@
+body {
+	
+	background-image: url("lion.jpg");
+	
+	background-size:cover;
+	font-family: Castellar;
+	color: yellow;
+}
+h1, h2, h3 {
+	color: red;
+}
+div h2 {
+	color: green;
+}
+a:link{
+	color:white;
+}
+a:visited{
+	color:orange;
+	}
+a:hover{
+	color:gray;
+}
