@@ -6,6 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
   <body>
-    <h1>(/*_*)/ Click me!!! \(*_*\)</h1>
+    <h1><a href="rw\page1.htm">CLICK ME!!!</a></</h1>
   </body>
 </html>
