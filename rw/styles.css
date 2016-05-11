@@ -15,6 +15,7 @@ footer .row {
 }
 
 header h1 {
+	
   font-weight: 700;
   color: white;
   margin: 0;
@@ -26,7 +27,7 @@ header nav {
 }
 
 header p {
-  padding: 0 20px;
+  padding: 0 10px;
   margin: 0;
 }
 
@@ -49,7 +50,7 @@ header p {
 
 .jumbotron h3 {
   margin: 0 0 20px;
-  color: #fff;
+  color: blue;
 }
 
 section .row img {
@@ -115,7 +116,7 @@ footer li img {
   color: #08efff;
   text-align: center;
   font-size: 14px;
-  padding: 20px;
+  padding: 10px;
   width: 150px;
   transition: all 0.5s;
   cursor: pointer;
